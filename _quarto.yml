@@ -1,0 +1,9 @@
+project:
+  type: tmp
+tmp:
+  tmp_title: "My Title"
+bibliography: references.bib
+
+
+
+
